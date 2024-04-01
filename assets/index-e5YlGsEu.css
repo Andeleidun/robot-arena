@@ -1,0 +1,1 @@
+#root{width:100vw;overflow-x:hidden}.App{max-width:90%;margin:10px auto}h1{text-align:center}@media only screen and (max-width: 900px){.App{max-width:95%}}:root{font-family:Roboto,sans-serif;line-height:1.5;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}body{margin:0;display:flex;min-width:320px;min-height:100vh}

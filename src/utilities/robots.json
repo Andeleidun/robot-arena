@@ -1,0 +1,62 @@
+[
+  {
+    "name": "ElectroSpike",
+    "color": "silver",
+    "attack": 52,
+    "defense": 31
+  },
+  {
+    "name": "ElektroWave",
+    "color": "green",
+    "attack": 73,
+    "defense": 75
+  },
+  {
+    "name": "Technoroid",
+    "color": "silver",
+    "attack": 28,
+    "defense": 60
+  },
+  {
+    "name": "Cybernova",
+    "color": "silver",
+    "attack": 91,
+    "defense": 51
+  },
+  {
+    "name": "MechFlare",
+    "color": "blue",
+    "attack": 79,
+    "defense": 70
+  },
+  {
+    "name": "Vectra5600",
+    "color": "gray",
+    "attack": 5,
+    "defense": 59
+  },
+  {
+    "name": "Cybernova",
+    "color": "teal",
+    "attack": 83,
+    "defense": 23
+  },
+  {
+    "name": "ElectraX",
+    "color": "red",
+    "attack": 19,
+    "defense": 92
+  },
+  {
+    "name": "RoboVista",
+    "color": "navy",
+    "attack": 22,
+    "defense": 65
+  },
+  {
+    "name": "ElektroWave",
+    "color": "aqua",
+    "attack": 71,
+    "defense": 81
+  }
+]

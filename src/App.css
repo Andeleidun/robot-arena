@@ -1,0 +1,19 @@
+#root {
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.App {
+  max-width: 90%;
+  margin: 10px auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+@media only screen and (max-width: 900px) {
+  .App {
+      max-width: 95%;
+  }
+}
